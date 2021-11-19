@@ -1,0 +1,12 @@
+body {
+background-color:black;
+}
+
+b {
+color: black;
+}
+
+
+p,a,div,b,title {
+  text-transform: capitalize;
+}
